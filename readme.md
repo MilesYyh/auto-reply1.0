@@ -8,7 +8,7 @@
 
 -----------------
 ## Introduction
-In this activity, we wiil utilize the python package of ITCHAT to auto-reply someone's Wechat.
+In this activity, we wiil utilize the python package of ITCHAT（actually no, i use WXauto） to auto-reply someone's Wechat.
 
 It is recommeded that we use this python script to someone u hate. But, maybe, you should have a deep consideration Think twice. That is to say "Look before you leap". Do not be impulsive and do things immediately, check for the pissible things that might come in you ways.Have a look.
 
@@ -82,7 +82,7 @@ you:
     return 1
 ```
 -------------------------------
-If you wechat didn't send out the message, just show in the typing frame. Please check this settiing in your wechat.
+If your wechat didn't send out the message, just show in the typing frame. Please check this settiing in your wechat.
 
 ![setting](setting.png)
 
