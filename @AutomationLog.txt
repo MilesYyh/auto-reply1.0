@@ -1,0 +1,1 @@
+2023-01-12 16:45:01.156 wxauto.py[185] ChatWith -> Find Control Timeout(10s): {ClassName: 'WeChatMainWndForPC', ControlType: WindowControl}
