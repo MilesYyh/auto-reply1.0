@@ -23,7 +23,7 @@ def time2message2object(msg_object,msg_info,msg_time):
     WX = WeChat()
     # WX.ChatWith(msg_object)
     # WX.SendMsg(msg_info)
-    if msg_time == "48":
+    if msg_time == "56":
         WX.ChatWith(msg_object)
         WX.SendMsg(msg_info)
         signal_send = "1"
